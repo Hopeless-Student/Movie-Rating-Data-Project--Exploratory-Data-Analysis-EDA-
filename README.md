@@ -2,7 +2,7 @@
 📄 Report
 
 The full analysis, including charts and detailed interpretations, is available here:
-[View Full Report](./report/Movie%20Rating%20Data_%20Project-%20Exploratory%20Data%20Analysis%20(EDA).pdf)
+[View Full Report](https://docs.google.com/document/d/1bOiOmOASPUupjEOw2PrMGFQw8kxMucXiFz4qGZy6KFo/edit?usp=sharing)
 
 📌 Overview
 
