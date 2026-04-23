@@ -1,4 +1,8 @@
 🎬 Exploratory Data Analysis of IMDb Movies
+📄 Report
+
+The full analysis, including charts and detailed interpretations, is available here:
+[View Full Report](./report/Movie%20Rating%20Data_%20Project-%20Exploratory%20Data%20Analysis%20(EDA).pdf)
 
 📌 Overview
 
@@ -69,10 +73,6 @@ Missing factors such as:
 - Audience demographics
 - Results may not generalize to all movies
 
-📄 Report
-
-The full analysis, including charts and detailed interpretations, is available here:
-[View Full Report](.report\Movie Rating Data_ Project- Exploratory Data Analysis (EDA).pdf)
 
 📁 Project Structure
 Movie-Rating-Data-Project--Exploratory-Data-Analysis-EDA/
